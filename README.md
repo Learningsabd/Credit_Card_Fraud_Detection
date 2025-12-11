@@ -35,6 +35,13 @@ This project implemetnts Machine Learning techniques to detect fraudulent credit
 - `README.md` – Project overview
 
 
+##  Dataset
+The dataset used in this project is the **Credit Card Fraud Detection dataset** from Kaggle.  
+You can download it here: [Credit Card Fraud Detection Dataset on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+> Note: The dataset contains anonymized transactions made by European cardholders in September 2013. It is highly imbalanced, with only 0.172% of transactions labeled as fraud.
+
+
 ##  Future Directions
 - Explore **deep learning autoencoders** for anomaly detection.  
 - Deploy as a **REST API** for real‑time fraud detection.  
